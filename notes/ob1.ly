@@ -359,18 +359,6 @@ QuoniamIOboeI = {
   }
 }
 
-QuoniamIIOboeI = {
-  \relative c' {
-    \clef treble
-    \key e \major \time 2/4 \tempoQuoniamII
-      \set Staff.timeSignatureFraction = 2/4
-      \override Staff.TimeSignature.style = #'single-digit
-      \set Score.currentBarNumber = #232
-    \override MultiMeasureRest.minimum-length = #40
-      R2*181 \bar "||" %412 finis
-  }
-}
-
 CumSanctoOboeI = {
   \relative c' {
     \clef treble
