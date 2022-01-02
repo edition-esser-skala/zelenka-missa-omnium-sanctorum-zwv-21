@@ -1,17 +1,19 @@
-composer: Zelenka, Jan Dismas
+composer:
+  last: Zelenka
+  first: Jan Dismas
 title: Missa Omnium Sanctorum
+subtitle: Missa Ultimarum Sexta et fortè omnium ultima
 id: ZWV 21
 genre: mass
 scoring: S, A, T, B (solo), S, A, T, B (coro), 2 ob, 2 vl, vla, b, org
+license: cc-by-sa-4.0
 sources:
-  1:
+  A1:
     siglum: D-Dl
     shelfmark: Mus.2358-D-9
-    type: autograph manuscript
     date: 1740–1741
-    rism: 212006531
-    url: http://digital.slub-dresden.de/id426607406
-github: zelenka-missa-omnium-sanctorum-zwv-21
+    rism: 212006521
+    url: https://digital.slub-dresden.de/id42660248X
+    license: public domain
+    principal: true
 imslp: Missa_Omnium_Sanctorum,_ZWV_21_(Zelenka,_Jan_Dismas)
-notes:
-
